@@ -910,13 +910,13 @@ h1, h2, h3, h4, h5,
       -ms-transform: translateX(-50%);
       transform: translateX(-50%);
       background: rgba(0, 0, 0, 0.3); }
-  .block-counter-1.block-counter-1-sm {
-    text-align: left; }
+  /* .block-counter-1.block-counter-1-sm { 
+    text-align: center; }
     .block-counter-1.block-counter-1-sm .number:after {
       left: 0;
       -webkit-transform: translateX(0);
       -ms-transform: translateX(0);
-      transform: translateX(0); }
+      transform: translateX(0); }*/
 
 .block-social-1 > a {
   display: inline-block;
